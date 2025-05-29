@@ -9,7 +9,7 @@
 - **Name:** Prathi U Shetty  
 - **USN:** 4AL22CS107  
 - **Semester:** VI  
-- **Section:** C  
+- **Section:** B
 - **Subject:** Advanced Java  
 - **Subject Code:** BCS613D
 
@@ -50,4 +50,13 @@ This project is designed to simplify the process of managing college fee payment
 ---
 
 ## 🗃️ Project Layout
-
+CollegeFeePaymentSystem/
+├── src/
+│ ├── dao/ # Data access layer
+│ ├── model/ # Data model class
+│ └── servlet/ # Business logic
+├── WebContent/
+│ ├── *.jsp # Frontend JSP pages
+├── WEB-INF/
+│ ├── web.xml # Deployment descriptor
+└── README.md
