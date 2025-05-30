@@ -113,7 +113,11 @@ Built skills in form handling, CRUD operations, and JDBC integration
 Gained hands-on experience in deploying apps with Tomcat
 
 👤 Author
+
 Developed by Prathi U Shetty
+
 USN: 4AL22CS107
+
 Alva’s Institute of Engineering & Technology
+
 Subject: Advanced Java (BCS613D)
