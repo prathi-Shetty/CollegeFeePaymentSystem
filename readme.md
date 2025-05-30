@@ -83,7 +83,9 @@ Import as Dynamic Web Project in Eclipse/IntelliJ
 
 Deploy to Apache Tomcat
 
-Access via: http://localhost:8080/CollegeFeePaymentSystem
+Access via:[ http://localhost:8080/CollegeFeePaymentSystem](https://github.com/prathi-Shetty/CollegeFeePaymentSystem]
+
+
 📊 Functionality Testing
 Feature	Description
 Add Fee	Fill form and submit new record
