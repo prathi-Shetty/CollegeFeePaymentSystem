@@ -102,6 +102,7 @@ Reports	View defaulters, total collection, paid/unpaid status
 
 🧪 Sample Screens : 
 
+OUTPUTLINK --> [https://github.com/prathi-Shetty/CollegeFeePaymentSystem/tree/main/output]
 
 🎓 Learning Outcomes
 Developed a complete Java web application from scratch
