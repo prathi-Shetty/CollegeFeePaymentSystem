@@ -83,7 +83,7 @@ Import as Dynamic Web Project in Eclipse/IntelliJ
 
 Deploy to Apache Tomcat
 
-Access via:[ http://localhost:8080/CollegeFeePaymentSystem](https://github.com/prathi-Shetty/CollegeFeePaymentSystem]
+Access via:[ http://localhost:8080/CollegeFeePaymentSystem][https://github.com/prathi-Shetty/CollegeFeePaymentSystem]
 
 
 📊 Functionality Testing
